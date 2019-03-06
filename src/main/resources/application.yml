@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: Demo
+
+server:
+  port: 8080
+  
+logging:
+  level:
+    root: 'INFO' 
+    
